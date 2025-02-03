@@ -272,5 +272,5 @@ This analysis provides a comprehensive view of Netflix's content and can help in
 
 ## NAME - KRUTIK KHASARE
 
-- **Linkedin profile**: [Krutik Khasare](www.linkedin.com/in/krutikkhasare200)
+- **Linkedin profile**: [Krutik Khasare](https://www.linkedin.com/in/krutikkhasare200/)
 
